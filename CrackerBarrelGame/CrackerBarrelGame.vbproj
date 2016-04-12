@@ -68,6 +68,9 @@
   <ItemGroup>
     <Compile Include="Board.vb" />
     <Compile Include="Game.vb" />
+    <Compile Include="IterativeBoard.vb" />
+    <Compile Include="IterativeGame.vb" />
+    <Compile Include="Move.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
